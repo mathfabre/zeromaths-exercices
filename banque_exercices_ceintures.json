@@ -1,0 +1,202 @@
+{
+    "multiplications": [
+        {
+            "operand1": 7,
+            "operand2": 4,
+            "result": 28
+        },
+        {
+            "operand1": 8,
+            "operand2": 4,
+            "result": 32
+        },
+        {
+            "operand1": 7,
+            "operand2": 5,
+            "result": 35
+        },
+        {
+            "operand1": 9,
+            "operand2": 6,
+            "result": 54
+        }
+    ],
+    "triangle_angles": [
+        {
+            "angle1": 25,
+            "angle2": 45,
+            "angle3": 110
+        },
+        {
+            "angle1": 150,
+            "angle2": 25,
+            "angle3": 5
+        }
+    ],
+    "percentages": [
+        {
+            "base": 100,
+            "percentage": 10,
+            "result": 10
+        },
+        {
+            "base": 200,
+            "percentage": 50,
+            "result": 100
+        }
+    ],
+    "unit_conversions": [
+        {
+            "from_value": 845,
+            "from_unit": "mL",
+            "to_unit": "L",
+            "result": 0.845
+        },
+        {
+            "from_value": 6.2,
+            "from_unit": "mg",
+            "to_unit": "g",
+            "result": 0.0062
+        }
+    ],
+    "equations": [
+        {
+            "equation": "-3x + 1 = 13",
+            "solution": 4.67
+        },
+        {
+            "equation": "4x - 5 = -5",
+            "solution": 0
+        }
+    ],
+    "square_roots": [
+        {
+            "square": 144,
+            "root": 12
+        },
+        {
+            "square": 225,
+            "root": 15
+        }
+    ],
+    "powers_of_powers": [
+        {
+            "base": 2,
+            "power1": -8,
+            "power2": -1
+        },
+        {
+            "base": 4,
+            "power1": 10,
+            "power2": 10
+        }
+    ],
+    "euclidean_division": [
+        {
+            "dividend": 26,
+            "divisor": 4,
+            "quotient": 6,
+            "remainder": 2
+        },
+        {
+            "dividend": 29,
+            "divisor": 6,
+            "quotient": 4,
+            "remainder": 5
+        }
+    ],
+    "time_conversion": [
+        {
+            "hours": 7,
+            "minutes": 48,
+            "total_hours": 7.8
+        },
+        {
+            "hours": 4,
+            "minutes": 54,
+            "total_hours": 4.9
+        }
+    ],
+    "statistics": [
+        {
+            "values": [
+                6,
+                14,
+                24
+            ],
+            "mean": 14.67,
+            "median": 14,
+            "range": 18
+        }
+    ],
+    "algebra_expansion": [
+        {
+            "expression": "9y(5y+4)",
+            "expanded": "45y² + 36y"
+        },
+        {
+            "expression": "4(4y-6)",
+            "expanded": "16y - 24"
+        }
+    ],
+    "geometry": [
+        {
+            "shape": "rectangle",
+            "length": 6,
+            "width": 5.9,
+            "perimeter": 23.8
+        },
+        {
+            "shape": "carré",
+            "side": 4.1,
+            "perimeter": 16.4
+        }
+    ],
+    "percentage_change": [
+        {
+            "original": 100,
+            "factor": 1.54,
+            "change_type": "augmentation"
+        },
+        {
+            "original": 100,
+            "factor": 0.76,
+            "change_type": "réduction"
+        }
+    ],
+    "root_bounds": [
+        {
+            "root": "√99",
+            "lower_bound": 9,
+            "upper_bound": 10
+        },
+        {
+            "root": "√18",
+            "lower_bound": 4,
+            "upper_bound": 5
+        }
+    ],
+    "linear_functions": [
+        {
+            "expression": "f(x) = ax",
+            "a": 3
+        }
+    ],
+    "pgcd": [
+        {
+            "a": 36,
+            "b": 48,
+            "pgcd": 12
+        }
+    ],
+    "mixed_dan": [
+        {
+            "operation": "5 × 4",
+            "result": 20
+        },
+        {
+            "operation": "0.1 de 36.3",
+            "result": 3.63
+        }
+    ]
+}
